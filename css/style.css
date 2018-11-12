@@ -111,7 +111,7 @@ section h2,
 .button-contact:active
 {
     color: #fff;
-    background-color: #4c4c4c;
+    background-color: #78777a;
 }
 
 header .profile
@@ -128,7 +128,7 @@ header .site-title
     font-size: 1.8rem;
     line-height: normal;
     
-    color: #78777a;
+    color: #b5aeb0;
 }
 header .site-title span
 {
@@ -137,7 +137,7 @@ header .site-title span
 
     display: block;
 
-    color: #edbe3f;
+    color: #78777a;
 }
 header .profile-icon
 {
@@ -184,7 +184,7 @@ section h2
 {
     margin-bottom: 60px;
 
-    color: #fdfcf6;
+    color: #fff;
 }
 #skills .skill-box
 {
@@ -218,8 +218,13 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #edbe3f;
+    background-color: #78777a;
 }
+
+.fa-edit{
+    padding-left: 8px;
+}
+
 #skills h3
 {
     font-size: 24px;
@@ -228,7 +233,7 @@ section h2
 
     margin-bottom: 10px;
 
-    color: #edbe3f;
+    color: #78777a;
 }
 
 #works
@@ -280,16 +285,16 @@ section h2
 }
 #works .works-box a .works-box-inner h3
 {
-    font-size: 16px;
-    font-size: 1.6rem;
+    font-size: 12px;
+    font-size: 1.2rem;
     font-weight: bold;
 
     margin: 0 0 5px;
 }
 #works .works-box a .works-box-inner small
 {
-    font-size: 10px;
-    font-size: 1rem;
+    font-size: 8px;
+    font-size: 0.8rem;
 
     display: block;
 
@@ -313,11 +318,11 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #edbe3f;
+    background-color: #93fae5;
 }
 #works .works-box a .works-box-inner .button-readmore:hover
 {
-    background-color: #c09a33;
+    background-color: #b5aeb0;
 }
 #works .works-box a:hover .works-box-inner
 {
@@ -389,11 +394,11 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #edbe3f;
+    background-color: #93fae5;
 }
 #contact ul a:hover
 {
-    background-color: #c09a33;
+    background-color: #b5aeb0;
 }
 
 /* Footer
